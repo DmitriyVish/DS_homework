@@ -37,6 +37,7 @@
 ### Этапы работы над проектом  
 В код игры добавлена возможно скоращения, компьютером на половину списка чисел, сохраняя часть, в которой нужно искать число: больше или меньше.
 Код представлен в файле [game_final.py] (https://github.com/DmitriyVish/DS_homework/blob/master/project_0/game_final.py)
+Создан ноутбук игры [game_final.ipynb] (https://github.com/DmitriyVish/DS_homework/blob/master/project_0/game_final.ipynb)
 
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
